@@ -1,2 +1,2 @@
 # StockMarketRNN
-How our RNN can assist swing trading: rnnstockmodeling.com
+How our RNN can assist swing trading: [rnnstockmodeling.com](rnnstockmodeling.com)
